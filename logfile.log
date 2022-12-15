@@ -1,0 +1,6 @@
+2022-12-15 13:51:10,537 :INFO :init_page_objects :Hotels link has been clicked
+2022-12-15 13:51:10,562 :INFO :init_page_objects :https://www.yatra.com
+2022-12-15 13:53:55,507 :INFO :init_page_objects :Hotels link has been clicked
+2022-12-15 13:53:55,527 :INFO :init_page_objects :https://www.yatra.com
+2022-12-15 13:54:06,040 :INFO :init_page_objects :Mumbai has been passed as Place
+2022-12-15 13:54:11,480 :INFO :init_page_objects :Andheri East has been selected as Location
